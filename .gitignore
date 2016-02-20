@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+django_vidya
+db.sqlite3
+.DS_Store
+
